@@ -21,6 +21,7 @@ sudo pip install -r requirements.txt
 ## Server configuration Details in serverData
 
 - STREAMING_SERVER_URL = "" // url of the video streaming device
+- FRAME_SERVER_URL = "" //url of the video frame
 - HOST = "" //configure server name
 - PORT = "" //and port
 
